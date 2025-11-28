@@ -25,14 +25,14 @@ Aqui estão as tecnologias que estou explorando e dominando durante minha jornad
 
 ### 📊 Minhas Estatísticas no GitHub
 
-> Estes cards mostram meu progresso e dedicação.
+> Destaco minha dedicação e empenho nos projetos.
 
-[![Estatísticas de Sequência](https://github-readme-streak-stats.herokuapp.com/?user=LucasFrancoNs&theme=nord&hide_border=true&card_width=440)](https://git.io/streak-stats)
+[![Desenvolvedor Ativo](https://img.shields.io/badge/Status-Desenvolvedor%20Ativo-brightgreen?style=for-the-badge&logo=github)](https://github.com/LucasFrancoNs)
 
 [![Principais Linguagens](https://github-readme-stats.com/api/top-langs/?username=LucasFrancoNs&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
----
+
 
 ### 🌐 Conecte-se Comigo!
 
