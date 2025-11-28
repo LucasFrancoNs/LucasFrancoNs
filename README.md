@@ -17,7 +17,7 @@ Aqui estão as tecnologias que estou explorando e dominando durante minha jornad
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Bancos de Dados** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-for-the-badge&logo=postgresql&logoColor=white) |
+| **Bancos de Dados** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **Controle de Versão** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
 | **Metodologia** | ![Scrum](https://img.shields.io/badge/Scrum-0072C6?style=for-the-badge&logo=scrumalliance&logoColor=white) |
 
@@ -35,7 +35,4 @@ Aqui estão as tecnologias que estou explorando e dominando durante minha jornad
 
 ### 🌐 Conecte-se Comigo!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-novais-955370365/))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
-
----
+[![LinkedIn](
