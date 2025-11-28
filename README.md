@@ -27,15 +27,15 @@ Aqui estão as tecnologias que estou explorando e dominando durante minha jornad
 
 > Estes cards mostram meu progresso e dedicação.
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LucasFrancoNs&show_icons=true&theme=nord&hide_border=true&title_color=2E3440)](https://github.com/anuraghazra/github-readme-stats)
+[![Estatísticas do GitHub](https://github-readme-stats.com/api?username=LucasFrancoNs&show_icons=true&theme=nord&hide_border=true&title_color=2E3440)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFrancoNs&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Principais Linguagens](https://github-readme-stats.com/api/top-langs/?username=LucasFrancoNs&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### 🌐 Conecte-se Comigo!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-novais-955370365/))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([COLOQUE O LINK DO SEU INSTAGRAM AQUI])
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]
 
 ---
