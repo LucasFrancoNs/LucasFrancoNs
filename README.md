@@ -1,16 +1,41 @@
-## Hi there 👋
+# Olá! Eu sou Lucas Franco 👋
 
-<!--
-**LucasFrancoNs/LucasFrancoNs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
-Here are some ideas to get you started:
+Sou um futuro desenvolvedor e estudante dedicado de ADS no **SENAI**. Meu objetivo é transformar desafios em códigos eficientes e estou buscando ativamente **oportunidades de estágio**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🚀 **Foco Atual:** Aprimorando minhas habilidades em **Desenvolvimento Back-end e Python**, com ênfase em arquitetura de sistemas.
+* 🤝 **Open to Work:** Estou aberto a novas conexões e oportunidades na área de tecnologia.
+* 📧 **Me encontre:** Lucasnovaes479@gmail.com ou através do LinkedIn.
+
+---
+
+### 🛠️ Minhas Ferramentas e Tecnologias
+
+Aqui estão as tecnologias que estou explorando e dominando durante minha jornada no SENAI e além:
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Bancos de Dados** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-for-the-badge&logo=postgresql&logoColor=white) |
+| **Controle de Versão** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
+| **Metodologia** | ![Scrum](https://img.shields.io/badge/Scrum-0072C6?style=for-the-badge&logo=scrumalliance&logoColor=white) |
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+> Estes cards mostram meu progresso e dedicação.
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LucasFrancoNs&show_icons=true&theme=nord&hide_border=true&title_color=2E3440)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFrancoNs&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🌐 Conecte-se Comigo!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-novais-955370365/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([COLOQUE O LINK DO SEU INSTAGRAM AQUI])
+
+---
