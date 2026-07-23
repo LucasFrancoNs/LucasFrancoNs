@@ -17,9 +17,9 @@ Aqui estão as tecnologias que estou explorando e dominando durante minha jornad
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Bancos de Dados** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Bancos de Dados** | ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) [MySQL]|
 | **Controle de Versão** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) |
-| **Metodologia** | ![Scrum](https://img.shields.io/badge/Scrum-0072C6?style=for-the-badge&logo=scrumalliance&logoColor=white)  ![Kanban]|
+| **Metodologia** | ![Scrum](https://img.shields.io/badge/Scrum-0072C6?style=for-the-badge&logo=scrumalliance&logoColor=white)  [Kanban]|
 
 ---
 
