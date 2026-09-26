@@ -567,14 +567,15 @@ Artificial Intelligence
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFrancoNs&show_icons=true&theme=github_dark&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasFrancoNs&theme=github_dark" />
 
-<br><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasFrancoNs&theme=github_dark" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFrancoNs&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasFrancoNs&theme=github_dark" />
 
 </div>
-
 ---
 
 # 🔥 GitHub Streak
