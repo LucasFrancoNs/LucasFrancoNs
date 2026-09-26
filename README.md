@@ -8,9 +8,7 @@
 
 <br>
 
-<a href="https://github.com/LucasFrancoNs">
-  <img src="https://komarev.com/ghpvc/?username=LucasFrancoNs&style=for-the-badge&color=blue" alt="Profile Views"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=LucasFrancoNs&style=for-the-badge&color=blue" alt="Profile views"/>
 
 </div>
 
@@ -18,29 +16,29 @@
 
 # 👨‍💻 Sobre mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS) no SENAI**, interessado principalmente em **desenvolvimento Back-end, Engenharia de Software, Dados e Inteligência Artificial**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS) no SENAI**, com interesse principalmente em **Back-end, Engenharia de Software, Dados e Inteligência Artificial**.
 
-Atualmente estou fortalecendo meus conhecimentos em **Python, Java, C#, JavaScript, desenvolvimento web e bancos de dados**, enquanto desenvolvo projetos acadêmicos e pessoais para transformar o conteúdo estudado em experiência prática.
+Atualmente estou fortalecendo meus conhecimentos em **Python, Java, C#, JavaScript, desenvolvimento web e bancos de dados**, além de desenvolver projetos acadêmicos e pessoais para aplicar conceitos de programação, arquitetura, automação e IA na prática.
 
-Também desenvolvo um projeto pessoal de **agente de Inteligência Artificial local**, onde exploro conceitos de arquitetura modular, automação, ferramentas especializadas, debugging, segurança e integração com modelos de linguagem.
+Também desenvolvo um projeto pessoal de **agente de Inteligência Artificial local**, onde exploro arquitetura modular, automação, debugging, segurança, ferramentas especializadas e integração com modelos de linguagem.
 
-🎯 Busco minha primeira oportunidade profissional na área de tecnologia para aplicar meus conhecimentos, trabalhar em projetos reais e continuar evoluindo como desenvolvedor.
+🎯 Busco minha primeira oportunidade profissional na área de tecnologia, onde eu possa continuar aprendendo, participar de projetos reais e evoluir como desenvolvedor.
 
 ---
 
 # 🚀 Atualmente
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas — SENAI**
-- 💻 Aprimorando conhecimentos em **Back-end**
-- 🐍 Desenvolvendo com **Python**
-- ☕ Estudando e utilizando **Java**
-- 🟣 Desenvolvendo conhecimentos em **C# / .NET**
+- 💻 Aprimorando conhecimentos em **desenvolvimento Back-end**
+- 🐍 Estudando e desenvolvendo com **Python**
+- ☕ Aprimorando conhecimentos em **Java**
+- 🟣 Estudando **C# e .NET**
 - 🌐 Trabalhando com **HTML, CSS, JavaScript e Bootstrap**
 - 🗄️ Utilizando **MySQL, SQL Server e SQLite**
 - 📱 Desenvolvendo projetos acadêmicos com **Flutter e Dart**
 - 🤖 Criando projetos relacionados a **IA e automação**
-- 🧠 Estudando conceitos de **Engenharia de Software**
-- 📊 Expandindo conhecimentos em **Dados e SQL**
+- 📊 Expandindo conhecimentos em **dados e SQL**
+- ⚙️ Estudando conceitos de **Engenharia de Software**
 - 🎯 Buscando oportunidade de **estágio / início de carreira em tecnologia**
 
 ---
@@ -171,7 +169,7 @@ Também possuo contato com:
 
 <br>
 
-Durante minha formação no SENAI, trabalho com:
+Durante minha formação acadêmica, trabalho com:
 
 - Flutter
 - Dart
@@ -356,7 +354,7 @@ Projetos e atividades envolvendo desenvolvimento de interfaces web.
 
 Um dos projetos que mais utilizo para aprender é o desenvolvimento de um **assistente inteligente local e modular**.
 
-A ideia é construir um sistema que possa utilizar diferentes módulos especializados dependendo da tarefa necessária.
+A ideia é construir um sistema capaz de utilizar diferentes módulos especializados dependendo da tarefa necessária.
 
 ```text
                      ┌──────────────┐
@@ -385,7 +383,7 @@ A ideia é construir um sistema que possa utilizar diferentes módulos especiali
                      └──────────────┘
 ```
 
-### Alguns conceitos estudados no projeto
+### Conceitos estudados no projeto
 
 ```text
 Friday
@@ -514,17 +512,6 @@ Data
 Artificial Intelligence
 
 
-lucas@github:~$ career_goal
-
-Software Engineer
-       ||
-       \/
-Data Engineer
-       ||
-       \/
-Artificial Intelligence
-
-
 lucas@github:~$ status
 
 Building...
@@ -564,23 +551,14 @@ Data Engineering
 
 ### 📍 Futuro
 
-Tenho interesse em construir minha carreira em:
+Tenho interesse em construir minha carreira em áreas relacionadas a:
 
 ```text
-        ┌───────────────────────┐
-        │ SOFTWARE ENGINEERING  │
-        └───────────┬───────────┘
-                    │
-                    │
-                    ▼
-        ┌───────────────────────┐
-        │   DATA ENGINEERING    │
-        └───────────┬───────────┘
-                    │
-                    ▼
-        ┌───────────────────────┐
-        │ ARTIFICIAL INTELLIGENCE│
-        └───────────────────────┘
+Software Engineering
+        ↓
+Data Engineering
+        ↓
+Artificial Intelligence
 ```
 
 ---
@@ -589,7 +567,9 @@ Tenho interesse em construir minha carreira em:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFrancoNs&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFrancoNs&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<br><br>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFrancoNs&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 
@@ -607,17 +587,7 @@ Tenho interesse em construir minha carreira em:
 
 ---
 
-# 📈 Gráfico de Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasFrancoNs&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
----
-
-# 🐍 Minhas contribuições
+# 🐍 Minhas contribuições no GitHub
 
 <div align="center">
 
@@ -629,32 +599,41 @@ Tenho interesse em construir minha carreira em:
 
 # 🌊 Dev Aquarium
 
-```text
-                              🫧
-            🐟
-                                        🐠
+<div align="center">
 
-                    ╔══════════════════════╗
-                    ║     LUCAS.DEV        ║
-                    ║                      ║
-                    ║  > Python            ║
-          🐡        ║  > Java              ║
-                    ║  > C#                ║
-                    ║  > SQL               ║
-                    ║  > Backend           ║
-                    ║  > AI                ║
-                    ║                      ║
-                    ║  STATUS: BUILDING... ║
-                    ╚══════════════════════╝
+<pre>
 
-       🪸                                      🪸
+                 🫧
+                                      🐠
 
-                         🐠
+       🐟
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                 GitHub Development Ocean
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-```
+
+              ╔══════════════════════╗
+              ║      LUCAS.DEV       ║
+              ║                      ║
+              ║  > Python            ║
+              ║  > Java              ║
+              ║  > C#                ║
+              ║  > SQL               ║
+              ║  > Backend           ║
+              ║  > AI                ║
+              ║                      ║
+              ║ STATUS: BUILDING...  ║
+              ╚══════════════════════╝
+
+
+   🪸                                  🪸
+
+                      🐡
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+          GitHub Development Ocean
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+</pre>
+
+</div>
 
 ---
 
@@ -674,7 +653,8 @@ Tenho contato com conceitos relacionados a:
 - Scrum
 - Kanban
 - Versionamento de código
-- Git Flow
+- Git
+- GitHub
 - Trabalho em equipe
 - Desenvolvimento incremental
 - Lógica de programação
@@ -706,7 +686,7 @@ Tenho contato com conceitos relacionados a:
 
 <div align="center">
 
-### 👨‍💻 Código, dados, software e inteligência artificial.
+### 💻 Código, dados, software e inteligência artificial.
 
 ### 🚀 Sempre aprendendo. Sempre construindo.
 
